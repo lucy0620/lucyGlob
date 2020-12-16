@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div>
+        allen搬砖开始
+    </div>
 </template>
 
 <script>
